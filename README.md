@@ -2,6 +2,8 @@
 
 This is for our team to pass our deception survey prompts to the Groq models using Grow api.
 
+Designed to take csv with first column as prompts, combined from the prior art stockbroker study, one per row.
+
 I've obtained some free Groq api credit for us. We will need to edit this script to change out the Groq model each time we want to survey a different model, but I did this as a single model pass so we can choose which model(s) to start with in case we run out of credits part way through.
 
 # NOTES ON FUTURE IMPROVEMENTS:
