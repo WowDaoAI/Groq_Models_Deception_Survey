@@ -1,3 +1,5 @@
+# DEPRICATED FROM RESEARCH PROJECT BUT BEING PUBLISHED FOR POSTERITY
+
 # Groq_Models_Deception_Survey
 
 This is for our team to pass our deception survey prompts to the Groq models using Grow api.
